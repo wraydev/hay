@@ -1,2 +1,2 @@
 # Hay
-Compiler for the hay programming language.
+Compiler for the Hay programming language.
